@@ -1,1362 +1,1341 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 3 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1730906502275 tunnel running, 3 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 3 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1730908490837 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906505398 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908494042 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906508507 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908497138 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906511633 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908500223 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906514724 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908503380 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906517889 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908506486 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906521016 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908509562 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906524144 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908512708 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906527233 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908515809 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906530313 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908518889 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906533476 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908521981 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906536558 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908525155 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906539675 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908528247 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906542747 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908531388 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906545886 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908534490 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906548966 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908537615 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906552083 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908540708 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906555204 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908543795 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906558321 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908546877 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906561457 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908549973 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906564584 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908553102 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906567703 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908556174 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906570813 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908559300 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906573932 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908562376 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906577047 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908565477 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906580124 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908568606 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906583205 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908571818 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906586313 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908574896 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906589429 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908577976 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906592505 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908581093 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906595621 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908584197 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906598752 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908587300 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906601828 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908590473 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906604972 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908593550 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906608069 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908596641 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906611157 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908599735 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906614232 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908602865 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906617382 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908605964 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906620474 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908609050 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906623572 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908612130 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906626682 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908615228 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906629787 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908618322 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906632888 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908621431 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906635994 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908624526 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906639093 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908627617 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906642209 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908630704 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906645300 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908633828 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906648403 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908636950 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906651516 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908640023 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906654623 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908643110 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906657741 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908646203 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906660828 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908649284 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906663953 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908652379 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906667073 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908655463 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906670186 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908658536 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906673300 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908661616 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906676382 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908664729 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906679529 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908667832 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906682638 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908670942 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906685790 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908674087 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906688898 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908677228 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906692007 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908680369 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906695106 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908683504 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906698230 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908686618 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906701347 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908689738 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906704428 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908692814 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906707502 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908695927 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906710615 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908699012 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906713734 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908702110 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906716807 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908705348 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906719880 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908708476 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906722960 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908711666 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906726040 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908714791 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906729184 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908717925 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906732722 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908720998 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906735849 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908724090 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906738951 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908727168 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906742087 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908730265 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906745184 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908733363 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906748307 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908736463 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906751400 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908739584 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906754516 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908742711 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906757606 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908745813 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906760708 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908748887 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906763794 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908751982 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906766878 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908755059 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906769973 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908758140 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906773088 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908761231 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906776191 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908764367 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906779317 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908767450 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906782403 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908770539 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906785518 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908773648 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906788637 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908776733 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906791731 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908779819 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906794835 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908782922 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906797959 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908786045 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906801052 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908789167 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906804149 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908792238 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906807239 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908795326 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906810332 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908798439 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906813447 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908801517 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906816537 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908804593 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906819638 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908807681 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906822756 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908810773 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906825842 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908813859 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906828934 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908816972 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906832058 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908820130 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906835186 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908823234 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906838274 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908826336 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906841367 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908829453 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906844488 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908832561 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906847592 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908835710 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906850693 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908838866 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906853823 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908842073 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906856943 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908845182 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906860061 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908848268 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906863158 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908851409 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906866282 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908854506 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906869379 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908857602 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906872467 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908860690 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906875563 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908863794 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906878689 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908866898 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906881784 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908870033 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906884883 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908873108 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906887974 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908876296 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906891067 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908879367 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906894169 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908882503 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906897289 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908885578 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906900387 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908888783 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906903491 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908891900 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906906618 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908895009 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906909716 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908898138 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906912815 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908901222 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906915907 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908904305 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906919024 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908907389 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906922116 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908910558 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906925210 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908913763 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906928320 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908916888 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906931392 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908919970 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906934507 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908923085 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906937614 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908926307 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906940713 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908929397 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906943806 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908932539 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906946893 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908935674 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906950022 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908938779 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906953098 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908941886 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906956198 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908945157 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906959331 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908948284 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906962459 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908951376 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906965544 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908954513 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906968663 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908957606 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906971779 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908960776 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906974870 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908963894 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906977961 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908967013 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906981054 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908970138 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906984176 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908973259 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906987249 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908976340 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906990321 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908979455 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906993433 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908982563 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906996508 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908985702 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730906999581 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908988800 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730907002686 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908991887 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730907005761 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908994967 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730907008850 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730908998083 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730907011969 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730909001201 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730907015040 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730909004288 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730907018125 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730909007383 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730907021217 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730909010503 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730907024357 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730909013627 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730907027461 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730909016767 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730907030555 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730909019893 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730907033632 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730909022965 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730907036710 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730909026064 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730907039789 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730909029140 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730907042909 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730909032251 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730907045991 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730909035374 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730907049130 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730909038459 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730907052209 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730909041604 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730907055289 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730909044731 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730907058364 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730909047827 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730907061447 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730909050942 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730907064588 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730909054040 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730907067666 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730909057163 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730907070743 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730909060239 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730907073816 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730909063314 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730907076894 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730909066481 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730907079981 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730909069591 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730907083059 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730909072707 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730907086134 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730909075829 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730907089212 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730909078921 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730907092327 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730909082031 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
 map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730907095412 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
-map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730907098503 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
-map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730907101596 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-default-mexican.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-metal-powers.gl.at.ply.gg:1140 => 127.0.0.1:1140 (proto: Udp, port count: 1)
-map-track.gl.at.ply.gg:3059 => 127.0.0.1:3059 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730907104683 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730909085150 tunnel running, 3 tunnels registered
 
 
 TUNNELS
