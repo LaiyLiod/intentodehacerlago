@@ -92,11 +92,55 @@
       },
       "region": "global",
       "tunnel_type": null
+    },
+    {
+      "active": true,
+      "alloc": {
+        "data": {
+          "assigned_domain": "map-track.gl.at.ply.gg",
+          "assigned_srv": null,
+          "assignment": {
+            "type": "shared-ip"
+          },
+          "id": "e156d20f-8e0a-47d6-b149-dfae4833daea",
+          "ip_hostname": "23.ip.gl.ply.gg",
+          "ip_type": "both",
+          "port_end": 3060,
+          "port_start": 3059,
+          "region": "global",
+          "static_ip4": "147.185.221.23",
+          "tunnel_ip": "2602:fbaf:0:1::17"
+        },
+        "status": "allocated"
+      },
+      "created_at": "2024-11-04T07:58:12.725435Z",
+      "disabled_reason": null,
+      "domain": null,
+      "expire_notice": null,
+      "firewall_id": null,
+      "id": "464ced64-13bf-4867-b1ab-c7688b83425f",
+      "name": "unnamed",
+      "origin": {
+        "data": {
+          "local_ip": "127.0.0.1",
+          "local_port": 3059
+        },
+        "type": "default"
+      },
+      "port_count": 1,
+      "port_type": "udp",
+      "proxy_protocol": null,
+      "ratelimit": {
+        "bytes_per_second": null,
+        "packets_per_second": null
+      },
+      "region": "global",
+      "tunnel_type": null
     }
   ],
   "udp_alloc": {
     "allowed": 6,
-    "claimed": 1,
-    "desired": 1
+    "claimed": 2,
+    "desired": 2
   }
 }
